@@ -1,0 +1,44 @@
+export const styles = {
+    backBtn:{
+        m:"7px"
+    },
+    mobileContainer:{
+        height:"80vh",
+        display:"flex",
+        flexDirection:"column",
+        justifyContent:"center",
+    },
+    paper:{
+        background:"#f1f4f3",
+        my:"10px"
+    },
+    head:{
+        display:"flex",
+        justifyContent:"center",
+        mt:"20px",
+        fontSize:"28px"
+    },
+    box:{
+        display:"flex",
+        flexDirection:"column",
+        alignItems:"center",
+        justifyContent:"center",
+        my:"20px"
+    },
+    input:{
+        my:"10px",
+        background:"white",
+        width:"85%"
+    },
+    btn:{
+        my:"15px",
+        background:"#edf6ff",
+        borderRadius: "20px",
+        width:"100px"
+    },
+    chkBox:{
+        my:"10px",
+        display:"flex",
+        alignItems:"center",
+    }
+};

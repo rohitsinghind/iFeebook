@@ -1,0 +1,28 @@
+export const styles = {
+    paper:{
+        display:"flex",
+        flexDirection:"column",
+        alignItems:"center",
+        mr:"25px",
+        mt:"15px"
+    },
+    field:{
+        fontSize:"24px",
+        width:"150px",
+        mb:"10px"
+    },
+    fieldData:{
+        fontSize:"24px",
+        mb:"10px",
+        color:"#565656",
+        width:"116.3px",
+    },
+    head:{
+        fontSize:"28px",
+        my:"7px"
+      },
+    payBtn:{
+        my:"15px",
+        borderRadius:"15px"
+    }
+}
